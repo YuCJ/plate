@@ -22,28 +22,8 @@ Image.add({
         publicRead: true,
         resize: resizeImage,
         resizeOpts: [{
-            target: 'desktop',
-            width: 2000,
-            height: null,
-            options: {}
-        }, {
-            target: 'tablet',
-            width: 1200,
-            height: null,
-            options: {}
-        }, {
-            target: 'mobile',
-            width: 800,
-            height: null,
-            options: {}
-        }, {
-            target: 'w400',
-            width: 400,
-            height: null,
-            options: {}
-        }, {
-            target: 'tiny',
-            width: 150,
+            target: 'source',
+            width: null,
             height: null,
             options: {}
         }],
