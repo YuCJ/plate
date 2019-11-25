@@ -2,6 +2,26 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.1.0](https://github.com/YuCJ/plate/compare/v2.0.3...v2.1.0) (2019-11-25)
+
+
+### ⚠ BREAKING CHANGES
+
+* start a Socket.IO server in process
+
+### Features
+
+* build and serve keystone-plugin bundle ([3a3c0a4](https://github.com/YuCJ/plate/commit/3a3c0a44ed286df0dd13f4ffc0484178770395cf))
+* start a Socket.ID server in process ([24797b9](https://github.com/YuCJ/plate/commit/24797b9ed6b14c46a07d3f529674d63cc2b8c570))
+
+
+### Chores
+
+* add keystone-plugin deps ([8626397](https://github.com/YuCJ/plate/commit/8626397d019f33d80a6d53861b7948ceb1c32120))
+* bump @twreporter/keystone version ([60df850](https://github.com/YuCJ/plate/commit/60df850a2b843ed5eb36bc8ab710c1a3895c6bdd))
+* update .gitignore ([bc99a95](https://github.com/YuCJ/plate/commit/bc99a95b3648afa861af0dbf6662df4a676f2b75))
+* update ci config and Dockerfile ([8125e0b](https://github.com/YuCJ/plate/commit/8125e0b1d2c52608bcc70a08f348251e3d10fa08))
+
 ### [2.0.3](https://github.com/YuCJ/plate/compare/v2.0.2...v2.0.3) (2019-11-21)
 
 
